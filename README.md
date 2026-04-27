@@ -462,6 +462,8 @@ footer {
 
 ## OUTPUT
 <img width="1890" height="879" alt="image" src="https://github.com/user-attachments/assets/07399f60-a5f4-4163-9ef3-e792b7e4cf60" />
+
+
 https://portfolio-subbiah-19.vercel.app/
 
 ## RESULT
